@@ -1,0 +1,26 @@
+Q:
+Does it click?
+Q:
+can you write with it?
+A:
+Pen
+A:
+mouse
+Q:
+Does it calculate?
+A:
+calculator
+Q:
+Is it a musical instrument?
+Q:
+does it have strings?
+A:
+piano
+A:
+drumset
+Q:
+Does it hold a charge?
+A:
+battery
+A:
+keyboard
